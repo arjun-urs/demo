@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: 
+  phone: 1
+  usn: MyString
+  dob: 2013-03-18
+  gender: MyString
+  semester: 
+
+two:
+  name: 
+  phone: 1
+  usn: MyString
+  dob: 2013-03-18
+  gender: MyString
+  semester: 
